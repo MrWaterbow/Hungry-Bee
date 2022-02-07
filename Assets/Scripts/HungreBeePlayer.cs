@@ -6,10 +6,8 @@ using UnityEngine.UI;
 public class HungreBeePlayer : MonoBehaviour
 {
     private int score = 0;
-
     public Text scoreText;
     public Text gameOver;
-
     public GameObject redFlower1;
     public GameObject redFlower2;
     public GameObject orangeFlower1;
